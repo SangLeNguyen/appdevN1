@@ -35,19 +35,38 @@ List of contents
 	List of diles:
 
 	README.md	this file.
-	screen.c	contains screen manipulationsfunctions
+
+	screen.c	contains screen manipulationsfunctions.
+	
 	screen.h	contains constant definitions function
-			declarations at screen.c
+			declarations at screen.c.
+	
 	testcurl.c	contains the code which can send informationto specific 
-			php page
+			php page.
+	
 	makefile	contains the shorter version for the gcc and others command
-			such as rm and tar
+			such as rm and tar.
+	
 	testscreen.c	this contains alot animations and function that we can play and
-			manipulate it alongside with screen.c
+			manipulate it alongside with screen.c.
+
 	comm.c		contains code for for the posting and responding to a specific 
-			php server or website
+			php server or website.
+	
 	comm.h		contains constant defintions and function declarations
-			at comm.c	 
+			at comm.c.	 
+
+	sound.c		cointains sound manipultion functions.
+
+	sound.h		cointains constant definitions and function 
+			declarations of sound.c.
+
+	test.php	cointains php functions.
 
 5. Licenses and Copyright
-	This aapplication follows GPLv2 copyright.
+	This application follows GPLv2 copyright.
+
+6. Contact information
+	Number phone: 0905268608
+	Gmail: phusang2501@gmail.com
+
